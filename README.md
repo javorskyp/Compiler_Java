@@ -1,7 +1,7 @@
-# Language_Compiler_in_Java
+# Language compiler written in Java
 
-ownLanguage__Compiler
-Creating a simple programming language and implementing its compiler
+
+The project presents a simple compiler written in Java and implementing its properties
 
 install extension from https://code.visualstudio.com/docs/languages/java to vscode if you use this editor download ANTLR (Complete ANTLR 4.9.3 Java binaries jar) from www.antlr.org/download.html and put it into project folder download LLVM https://github.com/llvm/llvm-project/releases/tag/llvmorg-14.0.0 and install (Windows) +200mb during installation choose "Add LLVM to the system Path for current user"
 
